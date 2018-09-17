@@ -1,14 +1,17 @@
-# u1-project
+# *Universal Assignment Scheduler
 Web App for Universal Assignment Scheduling at UVA using Django Framework
 
 # Team:
-Requirements Management: Ryan and Macdisi 
+Requirements Management: Eddie Ryan and Ryan Macdisi 
 
-Software Testing: Guevarra and Nicholson 
+Testing: Jaz Guevarra and Kiri Nicholson 
 
-Software Architect: Chen
+Software Architect: Christine Chen
 
-Scrum Master: Daniel 
+Scrum Master: Daniel Hanson
+
+# Constraints: 
+
 
 # Requirements:
 
