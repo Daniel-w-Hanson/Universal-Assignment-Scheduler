@@ -1,4 +1,4 @@
-# *Universal Assignment Scheduler
+# Universal Assignment Scheduler
 Web App for Universal Assignment Scheduling at UVA using Django Framework
 
 # Team:
